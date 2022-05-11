@@ -1,0 +1,2 @@
+nombre: Diego Viscarra Pardo
+correo electronico: diego.viscarra@truextend.com
